@@ -13,8 +13,11 @@ I'm a **Software Engineer** at [AT&T], painting the digital canvas with pixels o
 
 ```plaintext
 🎨 Frontend: HTML, CSS, JavaScript, TypeScript, React, Next.js, React Native
+
 💻 Backend: Node.js, Express.js
+
 🛠️ Database: MongoDB, SQL
+
 🔧 Others: Git, Bit
 ```
 
