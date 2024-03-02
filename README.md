@@ -7,6 +7,8 @@
 
 I'm a **Software Engineer** at [AT&T], painting the digital canvas with pixels of code. With a palette of HTML, CSS, and JavaScript, I craft interactive masterpieces using modern frameworks like React, Next.js, and React Native.
 
+
+
 ## 🚀 Technologies & Tools
 
 ```plaintext
@@ -16,11 +18,17 @@ I'm a **Software Engineer** at [AT&T], painting the digital canvas with pixels o
 🔧 Others: Git, Bit
 ```
 
+
+
 ## 📫 Connect with Me
 
 LinkedIn: [linkedin.com/in/srinidev](https://www.linkedin.com/in/srinivasan-r-rangarajan)
+
 Email: srinivasan2305r@gmail.com
+
 GitHub: [github.com/srinidev](https://github.com/srinivasan-r23)
+
+
 
 
 ## 🌟 Fun Facts
@@ -36,9 +44,11 @@ GitHub: [github.com/srinidev](https://github.com/srinivasan-r23)
 🌮 Always hungry for knowledge, I'm currently delving into Backend development using Java and also on cloud technologies to elevate my skills and push the boundaries of what's possible.
 
 
+
 ## 🎯 Future Goals
 
 🌟 To become a highly skilled and successful software engineer proficient in solving complex system design challenges, architecting scalable solutions, and making meaningful contributions to the tech industry.
+
 
 
 Let's collaborate and create something extraordinary together! 💡
