@@ -18,7 +18,7 @@ I'm a **Software Engineer** at [AT&T], painting the digital canvas with pixels o
 
 🛠️ Database: MongoDB, SQL
 
-🔧 Others: Git, Bit
+🔧 Others: Git, Bit.cloud
 ```
 
 
