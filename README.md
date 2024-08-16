@@ -53,6 +53,18 @@ GitHub: [github.com/srinidev](https://github.com/srinivasan-r23)
 
 🌟 To become a highly skilled and successful software engineer proficient in solving complex system design challenges, architecting scalable solutions, and making meaningful contributions to the tech industry.
 
+## 😊 Profile Summary
+ <div align="center">
+ <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srinivasan-r23&theme=monokai" alt="Srini" style="max-width: 100%" width="100%" /></p>
+</div>
 
+---
+[![](https://visitcount.itsvg.in/api?id=srinivasan-r23&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## ❤ Views and Followers
+<a href="https://github.com/srinivasan-r23/srinivasan-r23">
+    <img src="https://komarev.com/ghpvc/?username=srinivasan-r23">
+</a>
+<a href="https://github.com/srinivasan-r23?tab=followers"><img src="https://img.shields.io/github/followers/srinivasan-r23?label=Followers&style=social" alt="GitHub Badge"></a>
 
 #### Let's collaborate and create something extraordinary together! 💡
