@@ -3,6 +3,7 @@
   <img src="https://your-image-url-here" alt="Banner Image">
 </div>
  -->
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Profile;I+am+Srini)](https://git.io/typing-svg)
 # Hello, World! 🌍 I'm Srini 👋
 
 I'm a **Software Engineer** at [AT&T], painting the digital canvas with pixels of code. With a palette of HTML, CSS, and JavaScript, I craft interactive masterpieces using modern frameworks like React, Next.js, and React Native.
