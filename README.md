@@ -67,7 +67,7 @@ GitHub: [github.com/srinidev](https://github.com/srinivasan-r23)
 </a>
 <a href="https://github.com/srinivasan-r23?tab=followers"><img src="https://img.shields.io/github/followers/srinivasan-r23?label=Followers&style=social" alt="GitHub Badge"></a>
 
-## GitHub Contribution
-https://jandee.vercel.app/srinivasan-r23
+## 🖥️ GitHub Contribution
+<img src="http://ghchart.rshah.org/srinivasan-r23" alt="srinivasan-r23's Github contribution chart" />
 
 #### Let's collaborate and create something extraordinary together! 💡
