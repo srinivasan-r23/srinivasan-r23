@@ -26,7 +26,7 @@ I'm a **Software Engineer** at AT&T, painting the digital canvas with pixels of 
 
 ## 📫 Connect with Me
 
-LinkedIn: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="srinivasan-r-rangarajan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/srinivasan-r-rangarajan?trk=profile-badge">linkedin.com/in/srinidev</a></div>
+LinkedIn: [linkedin.com/in/srinidev](https://in.linkedin.com/in/srinivasan-r-rangarajan)
 
 Email: srinivasan2305r@gmail.com
 
