@@ -32,6 +32,7 @@ Email: srinivasan2305r@gmail.com
 
 GitHub: [github.com/srinidev](https://github.com/srinivasan-r23)
 
+Portfolio: [srinidev.com](https://srini-eight.vercel.app/)
 
 
 
